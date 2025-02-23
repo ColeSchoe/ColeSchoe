@@ -1,6 +1,6 @@
 ### Heyo thereee 👋
 
-Newly grad Computer Science major currently learning web development essentials. I have experience in various frameworks for all kinds of projects but I have a passion for game development!
+Newly grad Computer Science major currently learning new subjects to expand my skillset. I have experience in various frameworks for all kinds of projects but I have a passion for game development!
 <!--
 **ColeSchoe/ColeSchoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
